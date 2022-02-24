@@ -9,6 +9,15 @@ Tweepy is a module specially used to handle Twitter API in Python. This project 
 Text Preprocessing:
 ![image](https://user-images.githubusercontent.com/93064471/155463200-f90cc379-5e8e-479e-a510-be0f4998434f.png)
 
+To use this code, you need to enter 4 pairs of keys in the first chunk of codes, including
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
+
+please refer to:
+https://developer.twitter.com/en/docs/twitter-api/getting-started/getting-access-to-the-twitter-api
+
 
 
 
